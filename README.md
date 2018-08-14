@@ -1,8 +1,10 @@
-# limravylib
+# Project Title
 
-#How to
+limravylib
 
-Step 1. Add the JitPack repository to your build file
+##How to
+
+### Step 1. Add the JitPack repository to your build file
 
 
 ```
@@ -15,7 +17,7 @@ allprojects {
 ```	
 	
   
-  Step 2. Add the dependency
+ ### Step 2. Add the dependency
   
   ```
   dependencies {
